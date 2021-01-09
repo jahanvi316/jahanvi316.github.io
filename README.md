@@ -1,8 +1,5 @@
 # Jahanvi Patel
 
-## <a href = "https://jahanvi316.github.io/jahanvipatel/"> Home Page </a>
-
-
 <div className="App">
   <header className="App-header">
     <div className = "splash fadeOut" >
