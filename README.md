@@ -7,7 +7,7 @@
   <header className="App-header">
     <div className = "splash fadeOut" >
       <link rel="icon" href="%PUBLIC_URL%/favicon.ico?" />
-      <img src="/jahanvipatel/static/media/mainLogo.79d3fc31.svg" className="App-logo" alt="logo"/>
+      <img src="/jahanvipatel/static/media/mainLogo.svg" className="App-logo" alt="logo"/>
     </div>
   </header> 
  </div>
