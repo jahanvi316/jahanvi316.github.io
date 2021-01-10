@@ -3,7 +3,7 @@
 * <a href="https://www.linkedin.com/in/jahanvipatel"> **LinkedIn**</a> 
 
 # Experience
-* Support Engineering Professional /| SAP /| JUN 11, 2018 - JUN 11, 2019
+* Support Engineering Professional || SAP || JUN 11, 2018 - JUN 11, 2019
   * Educated customers on appropriate use of SAPUI5
   * Build Fiori Applications using SAPUI5, OData Services and RESTful APIs
   * Deployed SAPUI5 and Fiori Applications on Fiori Launchpad and SAP Cloud Platform
