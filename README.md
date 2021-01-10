@@ -1,6 +1,6 @@
 <center>
   <h1>Welcome! Take a look around...</h1>
-  <img src = "1_circle.png" height="50%" width="50%"/> 
+  <img src = "images/1_circle.png" height="50%" width="50%"/> 
 </center>
 
 # About Me
@@ -9,7 +9,7 @@ Hey! My name is Jahanvi Patel. I have been programming since 2013, starting an e
 # Projects
 
 # Contact Me
-<img src="email_icon.png" height="25px" width="25px"/> <a href= "mailto:jahanvi316@gmail.com"> Email Me Here! </a>
+<img src="images/email_icon.png" height="25px" width="25px"/> <a href= "mailto:jahanvi316@gmail.com"> Email Me Here! </a>
 
 # Links
 * <a href="https://www.github.com/jahanvi316"> **Github** </a>
