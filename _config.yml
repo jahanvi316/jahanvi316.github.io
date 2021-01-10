@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 header: none
 title: Jahanvi Patel
+github:
+  is_project_page: false
