@@ -1,4 +1,16 @@
-<img src = "1_circle.png" height="50%" width="50%"/>
+<center>
+  <h1>Welcome! Take a look around...</h1>
+  <img src = "1_circle.png" height="50%" width="50%"/> 
+</center>
+
+# About Me
+Hey! My name is Jahanvi Patel. I have been programming since 2013, starting an early career in high school in 9th grade. This allowed me to build various projects, during and outside of school. As seen my resume below, I have been in various professional and volunteering atmospheres. I am looking for opportunities to build my skill set and challenge me.
+
+# Projects
+
+# Contact Me
+<img src="email_icon.png" height="50px" width="50px"/> <a href= "mailto:jahanvi316@gmail.com"> Email Me Here! jahanvi316@gmail.com </a>
+
 # Links
 * <a href="https://www.github.com/jahanvi316"> **Github** </a>
 * <a href="https://www.linkedin.com/in/jahanvipatel"> **LinkedIn** </a> 
