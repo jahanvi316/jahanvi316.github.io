@@ -2,4 +2,4 @@ theme: jekyll-theme-hacker
 header: none
 title: Jahanvi Patel
 github:
-  repository_url: https://github.com/jahanvi316
+  is_project_page: false
