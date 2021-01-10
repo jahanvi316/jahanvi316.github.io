@@ -1,4 +1,4 @@
-<img src = "1.jpeg" />
+<img src = "1.jpeg" height="400px" />
 # Links
 * <a href="https://www.github.com/jahanvi316"> **Github** </a>
 * <a href="https://www.linkedin.com/in/jahanvipatel"> **LinkedIn** </a> 
