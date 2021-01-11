@@ -8,6 +8,7 @@ Hey! My name is Jahanvi Patel. I have been programming since 2013, starting an e
 
 <h1>Projects</h1>
 <h2>School Projects</h2>
+<div id="schoolProjects">
   <table>
     <thead>
       <tr>
@@ -83,8 +84,9 @@ Hey! My name is Jahanvi Patel. I have been programming since 2013, starting an e
         <td>Created a new method that was simple but specific to the game</td>
       </tr>
   </table>
-  
+</div>
 <h2>Outside of School Projects</h2>
+<div id="outsideProjects">
   <table>
     <thead>
       <tr>
@@ -109,7 +111,7 @@ Hey! My name is Jahanvi Patel. I have been programming since 2013, starting an e
       </tr>
     </tbody>
   </table>
-
+</div>
 <h1>Contact Me</h1>
 <ul>
   <li><img src="images/email_icon.png" height="25px"/> <a href= "mailto:jahanvi316@gmail.com"> Email Me Here! </a></li>
