@@ -6,7 +6,7 @@
 <h1>About Me</h1>
 Hey! My name is Jahanvi Patel. I have been programming since 2013, starting an early career in high school in 9th grade. This allowed me to build various projects, during and outside of school. As seen my resume below, I have been in various professional and volunteering atmospheres. I am looking for opportunities that use my skill set and will build upon it as well as challenge me.
 
-<h1><a href="./Work.md">Projects</a></h1>
+<h1><a href="./Work">Projects</a></h1>
       
 <h1>Contact Me</h1>
 <ul>
