@@ -111,11 +111,14 @@ Hey! My name is Jahanvi Patel. I have been programming since 2013, starting an e
   </table>
 
 # Contact Me
-* <img src="images/email_icon.png" height="25px"/> <a href= "mailto:jahanvi316@gmail.com"> Email Me Here! </a>
-* <img src="images/github_icon.png" height="25px"/> <a href="https://www.github.com/jahanvi316"> Github </a>
-* <img src="images/linkedin_icon.png" height="25px"/> <a href="https://www.linkedin.com/in/jahanvipatel"> LinkedIn </a> 
-
+<ul>
+  <li><img src="images/email_icon.png" height="25px"/> <a href= "mailto:jahanvi316@gmail.com"> Email Me Here! </a></li>
+  <li><img src="images/github_icon.png" height="25px"/> <a href="https://www.github.com/jahanvi316"> Github </a></li>
+  <li><img src="images/linkedin_icon.png" height="25px"/> <a href="https://www.linkedin.com/in/jahanvipatel"> LinkedIn </a></li>
+</ul>
 # Links
-* <a href="Resume_Jahanvi Patel_10.1.2020.pdf"> Resume </a>
+<ul>
+  <li><a href="Resume_Jahanvi Patel_10.1.2020.pdf"> Resume </a></li>
+</ul>
 
 
