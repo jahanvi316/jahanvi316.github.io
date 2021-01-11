@@ -23,12 +23,10 @@ Dots and Boxes | Artificial Intelligence (6810) | Fall 2019 | Java | Created a n
 
 
 ## Outside of School Projects
-<div class="datatable-begin"></div>
 Project | Date | Technology | Notes
 ----- | ----- | ----- | -----
 Vibe | Fall 2017 | - | CodeDay. Won Best App.
 Borneo | Spring 2017 | - | CodeDay. Won Best App.
-<div class="datatable-end"></div>
 
 # Contact Me
 * <img src="images/email_icon.png" height="25px"/> <a href= "mailto:jahanvi316@gmail.com"> Email Me Here! </a>
