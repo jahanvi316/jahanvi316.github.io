@@ -9,16 +9,16 @@ Hey! My name is Jahanvi Patel. I have been programming since 2013, starting an e
 <h1><a href="./Work">Projects</a></h1>
 
 <h1>Contact Me</h1>
-    <ul>
-        <li><img src="images/email_icon.png" height="25px"/> <a href= "mailto:jahanvi316@gmail.com"> Email Me Here! </a></li>
-        <li><img src="images/github_icon.png" height="25px"/> <a href="https://www.github.com/jahanvi316"> Github </a></li>
-        <li><img src="images/linkedin_icon.png" height="25px"/> <a href="https://www.linkedin.com/in/jahanvipatel"> LinkedIn </a></li>
-    </ul>
+<ul>
+    <li><img src="images/email_icon.png" height="25px"/> <a href= "mailto:jahanvi316@gmail.com"> Email Me Here! </a></li>
+    <li><img src="images/github_icon.png" height="25px"/> <a href="https://www.github.com/jahanvi316"> Github </a></li>
+    <li><img src="images/linkedin_icon.png" height="25px"/> <a href="https://www.linkedin.com/in/jahanvipatel"> LinkedIn </a></li>
+</ul>
     
 <h1>Links</h1>
-    <ul>
-        <li><a href="Resume_Jahanvi Patel_10.1.2020.pdf"> Resume </a></li>
-    </ul>
+<ul>
+    <li><a href="Resume_Jahanvi Patel_10.1.2020.pdf"> Resume </a></li>
+</ul>
 
 
 
