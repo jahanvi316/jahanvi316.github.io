@@ -8,7 +8,6 @@ Hey! My name is Jahanvi Patel. I have been programming since 2013, starting an e
 
 # Projects
 ## School Projects
-
 <table>
   <thead>
     <tr>
