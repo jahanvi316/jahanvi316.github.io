@@ -1,9 +1,3 @@
----
-title: Home
-theme: jekyll-theme-hacker
-filename: README.md
----
-
 <center>
   <h1>Welcome! Take a look around...</h1>
   <img src = "images/1_circle.png" height="50%" width="50%"/> 
