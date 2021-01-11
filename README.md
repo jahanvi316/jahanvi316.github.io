@@ -8,6 +8,7 @@ Hey! My name is Jahanvi Patel. I have been programming since 2013, starting an e
 
 # Projects
 ## School Projects
+<div class="datatable-begin"></div>
 Project | Course | Date | Technology | Notes
 ----- | ----- | ----- | ----- | -----
 Backdoor Trojan Horse Attack | Data Security (8370) | Fall 2020 | Python | Detection System for the attack. Reproduced the attack and trying to detect it.
@@ -19,12 +20,15 @@ Classification and Missing Value Estimation | Machine Learning (6850) | Spring 2
 Paperless Attendance | Software Engineering (4350) | Spring 2020 | AngularCLI version 9.0.4 front-end with Spring Boot backend | To assist teachers and professors to take attendance without the need of paper. Enviornmental friendly and secure.
 PlanningItOut | Database (4710) | Spring 2020 | mySQL | SQL database for a calendar application
 Dots and Boxes | Artificial Intelligence (6810) | Fall 2019 | Java | Created a new method that was simple but specific to the game
+<div class="datatable-end"></div>
 
 ## Outside of School Projects
+<div class="datatable-begin"></div>
 Project | Date | Technology | Notes
 ----- | ----- | ----- | -----
 Vibe | Fall 2017 | - | CodeDay. Won Best App.
 Borneo | Spring 2017 | - | CodeDay. Won Best App.
+<div class="datatable-end"></div>
 
 # Contact Me
 * <img src="images/email_icon.png" height="25px"/> <a href= "mailto:jahanvi316@gmail.com"> Email Me Here! </a>
