@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div id="header_wrap" class="outer">
     <header class="inner">
-        <h1 id="project_title">MyProjects</h1>
+        <h1 id="project_title">Jahanvi Patel</h1>
         <div id="navbar">
             <ul>
                 <li><a href="README.md">Home</a></li>
