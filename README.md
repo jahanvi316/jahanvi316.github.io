@@ -83,8 +83,7 @@ Hey! My name is Jahanvi Patel. I have been programming since 2013, starting an e
         <td>Java</td>
         <td>Created a new method that was simple but specific to the game</td>
       </tr>
-  </table>
-</div>
+
 <h2>Outside of School Projects</h2>
 <div id="outsideProjects">
   <table>
