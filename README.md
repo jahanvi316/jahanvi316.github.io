@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <center>
   <h1>Welcome! Take a look around...</h1>
   <img src = "images/1_circle.png" height="50%" width="50%"/> 
