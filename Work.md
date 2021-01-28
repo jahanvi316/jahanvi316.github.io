@@ -83,7 +83,7 @@ filename: Work.md
     </tbody>
   </table>
 </div>
-<h2>Outside of School Projects</h2>
+<h2>Other Projects</h2>
 <div id="outsideProjects">
   <table>
     <thead>
