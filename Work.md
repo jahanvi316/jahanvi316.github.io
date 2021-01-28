@@ -4,8 +4,8 @@ theme: jekyll-theme-hacker
 filename: Work.md
 ---
 <h1>Projects</h1>
-<h2>School Projects</h2>
-<div id="schoolProjects">
+<h2>College Projects</h2>
+<div id="collegeProjects">
   <table>
     <thead>
       <tr>
