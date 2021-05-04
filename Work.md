@@ -18,6 +18,20 @@ filename: Work.md
     </thead>
     <tbody>
       <tr>
+        <td>AI4D Malawi News Classification Challenge</td>
+        <td>Advanced Machine Learning (8850)</td>
+        <td>Spring 2021</td>
+        <td>Python</td>
+        <td>Multi-Label Classification of Malwai News Articles</td>
+      </tr>
+      <tr>
+        <td>Messaging System</td>
+        <td>Cryptography (8224)</td>
+        <td>Spring 2021</td>
+        <td>Python</td>
+        <td>RSA Cryptosystem for encryption and decryption. DSA and Hash functions with digital signature for authentication. </td>
+      </tr>
+      <tr>
         <td>Backdoor Trojan Horse Attack</td>
         <td>Data Security (8370)</td>
         <td>Fall 2020</td>
