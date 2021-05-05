@@ -122,7 +122,7 @@ filename: Work.md
         <td>CodeDay. Won Best App.</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/CLiu13/Borneo">Borneo<a/></td>
+        <td><a href="https://github.com/CLiu13/Borneo">Borneo</a></td>
         <td>Spring 2017</td>
         <td>-</td>
         <td>CodeDay. Won Best App.</td>
