@@ -25,7 +25,7 @@ filename: Work.md
         <td>Multi-Label Classification of Malwai News Articles</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/jahanvi316/MessagingSystem">Messaging System</td>
+        <td><a href="https://github.com/jahanvi316/MessagingSystem">Messaging System</a></td>
         <td>Cryptography (8224)</td>
         <td>Spring 2021</td>
         <td>Python</td>
