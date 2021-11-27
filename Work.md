@@ -22,7 +22,7 @@ filename: Work.md
         <td>Deep Learning (8851)</td>
         <td>Fall 2021</td>
         <td>Python, HTML/CSS/JavaScript/PHP</td>
-        <td>Colorize your black and white images <a href="">here!</a></td>
+        <td>Colorize your black and white images! 57-layer Convolutional Neural Network with ReLU and Softmax. ~69% accuracy (~31% error) on the CIFAR-10 dataset! </td>
       </tr>
       <tr>
         <td><a href="https://github.com/jahanvi316/AI4D-MalawiNewsClassfication">AI4D Malawi News Classification Challenge</a></td>
