@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="icon" href="Images/colorizerLogo.png">
+        <title> Colorizer Tool </title>
+    </head>
+<style>
+    body {
+        background-color: black;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    hr {
+        width: 45%;
+    }
+
+    .centerlogo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+    }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+    }
+
+    .button {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+        transition-duration: 0.4s;
+        cursor: pointer;
+        padding: 2% 7%;
+    }
+
+    #colorize {
+        background-color: grey;
+        border-color: white;
+        color: white;
+        border-radius: 8px;
+    }
+
+    #colorize:hover {
+        background-color: #008CBA;
+        border-color: #B766EC;
+        color: #ffb6c1;
+    }
+
+    #decolorize {
+        background-color: green;
+        border-color: orange;
+        color: #ECE866;
+        border-radius: 8px;
+    }
+
+    #decolorize:hover {
+        background-color: #e7e7e7;
+        border-color: white;
+        color: black;
+    }
+
+  .required:after {
+    content:" *";
+    color: red;
+  }
+</style>
+
+<body>
+    <img src="Images/colorizerLogo.png" alt="logo" class="centerlogo">
+
+    <p class="center"> Colorizer will transform your pictures in seconds! Convert black and white images into color <b>
+            OR </b> convert colored pictures into black and white with this deep learning tool that utilizes multi-layer
+        convolutional neural networks. <br> <br>
+        Commemorate the past by colorizing pictures of ancestors and historic figures. </p>
+
+    <hr>
+    <p style="text-align:center;"> Select an image to colorize or decolorize!</p>
+
+    <form action="action_page.php" method="post" enctype="multipart/form-data">
+        <center> <input type="file" id="myFile" name="filename" class="required" required/></center>
+
+        <hr>
+        <p class="center">The Colorize Tool Button will add a splash of color to submitted greyscale images! This will
+            make photos more vibrant and lively.
+            <br><br>
+            <input type="submit" name="action1" value="Colorize" class="button" id="colorize"
+                onclick="colorizeFunction()" />
+            <br>
+
+            The Decolorize Tool Button will convert colored pictures to black and white, creating an old-time vibe
+            within the submitted image.
+            <br> <br>
+            <input type="submit" name="action2" value="Decolorize" class="button" id="decolorize"
+                onclick="decolorizeFunction()" />
+        </p>
+    </form>
+
+    <script type="text/javascript">
+        
+        function colorizeFunction() {
+            var file =  document.getElementById("myFile").value;
+            file.required = true;
+            if (file > " "){
+                location.href = 'results.html';
+            }
+        }
+
+        function decolorizeFunction() {
+            var file =  document.getElementById("myFile").value;
+            file.required = true;
+            if (file > " "){
+                location.href = 'results.html';
+            }
+        }
+    </script>
+</body>
+
+</html>
