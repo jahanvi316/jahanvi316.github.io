@@ -25,6 +25,13 @@ filename: Work.md
         <td>Colorize your black and white images! 57-layer Convolutional Neural Network with ReLU and Softmax. ~69% accuracy (~31% error) on the CIFAR-10 dataset! </td>
       </tr>
       <tr>
+        <td><a href="https://github.com/OHutchyHutch/Wheelie-Dynasty">Wheelie Dynasty</a></td>
+        <td>Game Design (6821)</td>
+        <td>Fall 2021</td>
+        <td>Unity</td>
+        <td>Fun Racing Game</td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/jahanvi316/AI4D-MalawiNewsClassfication">AI4D Malawi News Classification Challenge</a></td>
         <td>Advanced Machine Learning (8850)</td>
         <td>Spring 2021</td>
