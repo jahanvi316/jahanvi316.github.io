@@ -17,7 +17,7 @@ Hey! My name is Jahanvi Patel. I have been programming since 2013, starting an e
     
 <h1>Links</h1>
 <ul>
-    <li><a href="Resume_JahanviPatel_2023.03.08.pdf"> Resume </a></li>
+    <li><a href="Resume_JahanviPatel"> Resume </a></li>
 </ul>
 
 
