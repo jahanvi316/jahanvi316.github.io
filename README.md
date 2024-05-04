@@ -1,10 +1,10 @@
 <center>
-    <h1>Welcome! Take a look around...</h1>
+    <h1>Welcome!</h1>
     <img src = "images/1_circle.png" height="50%" width="50%"/> 
 </center>
 
 <h1>About Me</h1>
-Hey! My name is Jahanvi Patel. I have been programming since 2013, starting an early career in high school in 9th grade. This allowed me to build various projects, during and outside of school. As seen my resume below, I have been in various professional and volunteering atmospheres. I am looking for opportunities that use my skill set and will build upon it as well as challenge me.
+Hey! My name is Jahanvi Patel. I am a Software Engineer and Data Engineer who is versatile and adaptive to fast-growing environments. 
 
 <h1><a href="./Work.md">Projects</a></h1>
 
