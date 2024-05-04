@@ -6,7 +6,7 @@
 <h1>About Me</h1>
 Hey! My name is Jahanvi Patel. I am a Software Engineer and Data Engineer who is versatile and adaptive to fast-growing environments. 
 
-<h1><a href="./Work.md">Projects</a></h1>
+<h1><a href="./Work">Projects</a></h1>
 
 <h1>Contact Me</h1>
 <ul>
