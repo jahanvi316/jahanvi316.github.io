@@ -10,7 +10,7 @@ Hey! My name is Jahanvi Patel. I am a Software Engineer and Data Engineer who is
 
 <h1>Contact Me</h1>
 <ul>
-    <li><img src="images/email_icon.png" height="25px"/> <a href= "mailto:jahanvi316@gmail.com"> Email Me Here! </a></li>
+    <li><img src="images/email_icon.png" height="25px"/> <a href= "mailto:thejahanvipatel@gmail.com"> Email Me Here! </a></li>
     <li><img src="images/github_icon.png" height="25px"/> <a href="https://www.github.com/jahanvi316"> Github </a></li>
     <li><img src="images/linkedin_icon.png" height="25px"/> <a href="https://www.linkedin.com/in/jahanvipatel"> LinkedIn </a></li>
 </ul>
