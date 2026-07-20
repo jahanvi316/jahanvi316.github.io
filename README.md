@@ -4,7 +4,7 @@
 </center>
 
 <h1>About Me</h1>
-Hey! My name is Jahanvi Patel. I am a Software Engineer and Data Engineer who is versatile and adaptive to fast-growing environments. 
+Hey! My name is Jahanvi Patel. I am an Engineering Team Lead with experience building scalable backend systems, cloud architectures, and distributed engineering teams. Combines software engineering expertise with a background in Data Engineering, Artificial Intelligence, and Applied Machine Learning to build intelligent, data-driven solutions.
 
 <h1><a href="./Work">Projects</a></h1>
 
